@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="E:\12.jpg" alt="Sohail" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQFKuv5iwrLhkA/profile-displayphoto-shrink_800_800/0/1682619974345?e=1698883200&v=beta&t=zpAw-H6Rhcp8U70a6BDEXt1FBiwjb5AUO1YqZKp3SPo" alt="Sohail" /> </p>
 
 - 🔭 I’m currently working on Integerated Development Environment
 
