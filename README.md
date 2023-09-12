@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning *nextjs, nodejs, reactjs*
 
-- 👨‍💻 All of my projects are available at [https:http://127.0.0.1:5500/sample.html#about)
-
 - 📝 I weekly write articles on medium [https://dev.to/sohailahmed)
 
 - 💬 Ask me about *react, nextjs, reactjs*
